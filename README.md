@@ -1,0 +1,1 @@
+The main goal of this project was to practice and improve my HTML & CSS skills by recreating a real-world application interface. It helped me understand webpage structuring, styling, and how to approach building visually appealing layouts.
